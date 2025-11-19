@@ -15,5 +15,3 @@ Using OpenAI whisper model so you can only talk in whispers pspspspspspspspspsps
 - **Start `30:29:41`**: `AWS Lambda Follow Along` — 01:20:03 (~1.334 h)
 - **Start `12:26:09`**: `VPC Follow Along` — 01:15:15 (~1.254 h)
 - **Start `14:12:28`**: `NACL Follow Along` — 00:58:12 (~0.970 h)
-
-If you want a CSV of all follow-along intervals or a different matching rule (exact "Follow Along", include "Lab", etc.), tell me which and I will regenerate and add it to the repo.
