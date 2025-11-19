@@ -1,0 +1,1 @@
+ For compression, you can tell it to gzip it snappy zip, or use hadapi Hadoop Hadoppy Hadoop compatible snappy. So there you go. Data for hose is super useful and does a lot of stuff.

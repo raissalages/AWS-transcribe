@@ -1,0 +1,1 @@
+ redshift processing. So redshift uses massively parallel processing, which they acronym eyes or initializes MPP, it automatically distributes data and query loads across all nodes and lets you easily add new nodes to your data warehouse while still maintaining fast query performance. So yeah, it's easy to add more compute power on domain.

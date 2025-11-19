@@ -1,0 +1,1 @@
+ Redshift security so we have data in transit encrypt using SSL data rest we can encrypt using AES 256 encryption database encryption can be applied using KMS or you can use cloud HSM and here you can see it's just as easy as applying it

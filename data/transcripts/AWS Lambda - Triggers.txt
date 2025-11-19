@@ -1,0 +1,1 @@
+ we have a lot of different kinds of triggers. So triggers is stuff that can cause a lambda to execute and as well as passing along data. This is definitely not the full list. It works for third parties as well specifically through event bridge. So that is great. We

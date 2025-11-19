@@ -1,0 +1,1 @@
+ dashboards. And dashboards allows you to visualize your cloud metrics in the form of visual various graphs. And what you can do is create these widgets and configure metrics and add them to your dashboard. So here's a variety of different dashboard widgets. And you're just going to go ahead there and save it. And so now you have a dashboard. So there you go.
