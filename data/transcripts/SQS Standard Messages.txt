@@ -1,0 +1,1 @@
+ talking a bit more about sending messages, we can also send batch messages as we learned with SNS it is cost saving when we do batching. I assume it's the same for SQS. Okay, but there you go.
